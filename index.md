@@ -3,7 +3,7 @@
   <img 
     width="550"
     height="500"
-    src=" https://lamontaswarn.github.io/BrontePoems/docs/CharlotteB.png ">
+    src="">
 ## By Lamonta Swarn 
 
 
@@ -14,16 +14,16 @@ The one thing that caught my eye the most about much of the poems written by Cha
 
 <p align="left">
   <img 
-    width="550"
-    height="500"
-    src=" https://lamontaswarn.github.io/BrontePoems/docs/Bronte2.png ">
+    width="400"
+    height="450"
+    src="Bronte2.png">
 </p>
 
 <p align="left">
   <img 
-    width="550"
-    height="500"
-    src=" https://lamontaswarn.github.io/BrontePoems/docs/Bronte3.png ">
+    width="400"
+    height="450"
+    src="Bronte3.png">
 </p>
 
 
@@ -48,8 +48,8 @@ Another ethical point we must hit is the fact that some of the intimate details 
 <p align="left">
   <img 
     width="550"
-    height="500"
-    src=" https://lamontaswarn.github.io/BrontePoems/docs/Bronte1.png ">
+    height="400"
+    src="Bronte1.png">
 </p>
 
 
