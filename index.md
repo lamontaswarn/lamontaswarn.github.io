@@ -64,7 +64,132 @@ It was from no wish for saving, for there was plenty and even waste in the house
 
 # Poems
 
+# 'Obscure and little seen my way'
+Obscure and little seen my way<br>
+Through life has ever been,<br>
+But winding from my earliest day<br>
+Through many a wonderous scene.<br>
+None ever asked what feelings moved <br>
+My heart, or flushed my cheek,<br>
+And if I hoped, or feared or loved<br>
+No voice was heard to speak.<br>
 
+I watched, I thought, I studied long,<br>
+The crowds I moved unmarked among,<br>
+I nought to them and they to me<br>
+But shapes of strange variety.<br>
+The Great with all the elusive shine<br>
+Of power and wealth and lofty line<br>
+I long have marked and well I know.[^1]
+<br>
+# 'Is this my tomb, this humble stone'<br>
+Is this my tomb, this humble stone<br>
+Above this narrow mound?<br>
+Is this my resting place, so lone,<br>
+So green, so quite round? <br>
+Not even a stately tree to shade <br>
+The sunbeam from my bed,<br>
+Not even a flower in tribute laid <br>
+As sacred to the dead.<br>
+I looked along those evening hills,<br>
+As mute as earth may be,<br>
+I hear not even the voice of rills-<br>
+Not even a cloud I see.<br>
+How long is it since human tread<br>
+Was heard on that dim track<br>
+Which, through the shadowy valleys led, <br>
+Winds far, and farther back?<br>
+And was I not a lady once,<br>
+My home a princely hall? <br>
+Methinks, as in a doubtful dream, [fn2]<br>
+That dwelling proud I see<br>
+Where I caught first the early beam<br>
+Of being day's spring face.<br>
+Methinks the flash is round me still <br>
+Of mirrors broad and bright; <br>
+Methinks I see the torches fill<br>
+My chambers with their light, <br>
+And o'er my limbs the draperies flow<br>
+All gloss and silken shine,<br>
+On my cold brow the jewels glow <br>
+As bright as festal wine. <br>
+Who then disrobed that worshipped form?<br>
+Who wound this winding sheet?<br>
+Who turned the blood that ran so warm <br>
+To Winter's frozen sleet?<br>
+O can it be that many a sun <br>
+Has set, as that sets now,<br>
+Since last its fervid lustre shone<br>
+Upon my living brow?<br>
+Have all the wild dark clouds of night <br>
+Each eve for years drawn on<br>
+While I interred so far from light <br>
+Have slumbered thus alone?<br>
+Has this green mound been wet with rain-<br>
+Such rain as storms distil<br>
+When the wind's high and warning strain<br>
+Swells loud on sunless hill?<br>
+
+And I have slept where roughest hind<br>
+Had shuddered to pass by,<br>
+And no dread did my spirit find<br>
+In all that snow-racked sky,<br>
+Though shook the iron-rails around<br>
+As, swept by deepened breeze, <br>
+They gave a strange and hollow sound<br>
+That living veins might freeze.[fn3]<br>
+O was that music like my own? -<br>
+Such as I used to play<br>
+When soft and clear and holy shone<br>
+The summer moon's first ray, <br>
+And saw me lingering still to feel<br>
+The influence of that sky?<br>
+O words may not the peace reveal <br>
+That filled its concave high,<br>
+
+As rose and bower how far beneath<br>
+Hung down o'ercharged with dew,<br>
+And sighed their sweet and fragrant breath<br>
+To every gale that blew<br>
+The hour for music, but in vain,<br>
+Each ancient stanza rose<br>
+To lips that could not with their strain<br>
+Break Earth's and Heaven's repose. <br>
+
+Yet first a note and then a line <br>
+The fettered tongue would say,<br>
+And then the whole rich song divine<br>
+Found free and gushing way.<br>
+Past, lost, forgotten, I am here, <br>
+They dug my chamber deep,<br>
+I know no hope, I feel no fear,<br>
+I sleep - how calm I sleep!<br>
+
+# 'The Orphan Child'
+My feet they are sore, and my limbs they are weary;<br>
+Long is the way, and the mountains are wild;<br>
+Soon will the twilight close moonless and dreary<br>
+Over the path of the poor orphan child.<br>
+
+Why did they send me so far and so lonely,<br>
+Up where the moors spread and grey rocks are piled?<br>
+Men are hard-hearted, and kind angels only <br>
+Watch o'er the steps of a poor orphan child.<br>
+
+Yet distant and soft the night-breeze is blowing,<br>
+Clouds there are none, and clear stars beam mild;<br>
+God, in His mercy, protection is showing,<br>
+Comfort and hope to the poor orphan child.<br>
+
+Even should I fall o'er the broken bridge passing,<br>
+Or stray in the marshes, by false lights beguiled, <br>
+Still will my Father, with promise and blessing,<br>
+Take to His bossom the poor orphan child.<br>
+
+There is a thought that for strength should avail me,<br>
+Though both of shelter and kindred despoiled:<br>
+Heaven is a home, and in a rest will not fail me;<br>
+God is a friend to the poor orphan child.<br>
 
 ## Footnotes 
 
