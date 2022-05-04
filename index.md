@@ -5,10 +5,10 @@
     height="500"
     src="CharlotteB.jpeg">  
   
-## By Lamonta Swarn 
+<h2>By Lamonta Swarn</h2>
 
 
-## Textual History
+<h1> Textual History</h1>
 Within my research specifically of Charlotte Brontë's poetry, I found that there is a large percent of her and her sisters writings that either remained unfinished or were almost lost in circulation. According to Susan R. Bauman, “In 1846, the Brontë Poems were poised to slip into oblivion. Elizabeth Gaskell comments on the poignancy of their unnoticed entrance into the literary arena when, in The Life of Charlotte Bronte] she depicts the ”little volume of poems" as, "stealing into life", while "some weeks passed over, without the mighty murmuring public discovering that three more voices were uttering their speech" (Gaskell 223).” In her writing titled “In the Market for Fame: The Victorian Publication History of the Brontë Poems”. It was Charlotte's intent to continue on the legacy of her remaining sisters Emily and Anne. This jointly published book did not sell well at all, they again continued to write and thus we have the three poems mentioned in this project. This continued on until people finally caught on to the Brontë sisters writing and then they each became their own writers. There is much to be said about the way in which some novels and poetry pieces were published but for the most part they all wrote and published almost together.    
   
 The one thing that caught my eye the most about much of the poems written by Charlotte Brontë is that most of them are shortened in some publications or are under different titles, if they even have one at all. For instance, there is a poem that usually goes by the name of “Obscure and little seen my way”. While reading this poem in the context of various books and renditions of this poem, there is only about fourteen lines that are ever found. Upon my research though I found out that there was a significantly larger amount of content than is usually found. Where the usual rendition of the poem stops at the line that says, “I long have marked and well I know”, there are still thirty lines more of the poem.     
@@ -28,7 +28,7 @@ The one thing that caught my eye the most about much of the poems written by Cha
 </p>  
 
 
-## Socio-Historical Context
+<h1>Socio-Historical Context</h1>
 
 Since all of Brontë's poems were written in a timeline spanning twenty years, we can only imagine what she specifically was going through in her life, but we do know most of what was happening, especially around her in the world. Haworth was a place where people around town knew everyone. People in Haworth were also described as “self-sufficient”. People of Haworth were normally passive and kept to themselves, which is what probably helped Charlotte to concentrate on her writing for as long as she did.      
 
